@@ -54,4 +54,3 @@ https://sites.google.com/dnsc.edu.ph/johnluisclogrono/home
 
 - Email: logrono.johnluis@dnsc.edu.ph
 - GitHub: https://github.com/logronojohnluis
-- Portfolio: https://sites.google.com/dnsc.edu.ph/johnluisclogrono/home
